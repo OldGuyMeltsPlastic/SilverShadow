@@ -25,7 +25,7 @@ Mods I have applied:
 - My OMRON TL-Q5MC2 inductive probe would not work reliably when the printer bed/chamber was heated up to printing temperatures, so I built and configured an UnklickyNG BFP probe (https://github.com/majarspeed/Unklicky) to replace it.
 - Per clee's recommendation, as I'm running with sensorless homing for X and Y, I configured the UnklickyNG BFP probe to operate as my Z Endstop (https://docs.vorondesign.com/community/howto/Takuya/Klicky_Probe_AutoZ_Alternative.html).
 - Replaced the Stealthburner's original logo LED with the Rainbow Barf LED (https://github.com/tanaes/whopping_Voron_mods/tree/main/LEDs/Rainbow_Barf_Logo_LED?_ga=2.177043557.1718150233.1666884598-749777185.1666884598).
-- Replaced the stock black acrylic floor and rear panels with black panels made from ACM (Aluminum Composite Material). In the first month after assembling the printer, already the floor acrylic panel was pretty badly warped. ACM should also help retain/reflect some heat back into the chamber, which is desirable for printing with ABS.
+- In the first month after assembling the printer, already the floor acrylic panel was pretty badly warped, so I replaced the stock black acrylic floor and rear panels with black panels made from ACM (Aluminum Composite Material). ACM should also help retain/reflect some heat back into the chamber, which is desirable for printing with ABS.
 - Installed the Decontaminator nozzle brush and purge bucket (https://github.com/VoronDesign/VoronUsers/tree/master/abandoned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
 
 Mods I still wish to apply:
