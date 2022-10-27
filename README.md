@@ -1,6 +1,7 @@
 # SilverShadow
 - Serial: V2.4400
 - Serialization Date: 2022-10-22
+- Serial Request post on Reddit: https://www.reddit.com/r/voroncorexy/comments/yb0m97/voron_24r2_serial_request_oldguymeltsplastic7863/
 
 Hardware:
 
