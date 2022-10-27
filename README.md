@@ -1,6 +1,6 @@
 # SilverShadow
-Serial: V2.4400
-Serialization Date: 2022-10-22
+- Serial: V2.4400
+- Serialization Date: 2022-10-22
 
 Hardware:
 
