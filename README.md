@@ -3,16 +3,16 @@ Serial: V2.4400
 
 Hardware:
 
-Voron 2.4R2 350mm Formbot kit
-CW2 (Clockwork 2) extruder
-Stealthburner toolhead
-E3D Revo Voron hotend
-Labist Raspberry Pi 4b with 4 GB
-BigTreeTech Octopus Pro as primary MCU
-BigTreeTech TMC5160HV stepper motor drivers
-Mellow Fly SB2040 as secondary MCU
-LDO-36STH20-1004AH pancake stepper motor for the CW2
-Moon's MS17HD6P420I stepper motors for X, Y, and Z
+- Voron 2.4R2 350mm Formbot kit
+- CW2 (Clockwork 2) extruder
+- Stealthburner toolhead
+- E3D Revo Voron hotend
+- Labist Raspberry Pi 4b with 4 GB
+- BigTreeTech Octopus Pro as primary MCU
+- BigTreeTech TMC5160HV stepper motor drivers
+- Mellow Fly SB2040 as secondary MCU
+- LDO-36STH20-1004AH pancake stepper motor for the CW2
+- Moon's MS17HD6P420I stepper motors for X, Y, and Z
 
 Mods I have applied:
 
