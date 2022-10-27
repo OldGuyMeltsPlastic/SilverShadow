@@ -35,3 +35,4 @@ Mods I still wish to apply:
 - Install a 48V PSU to drive the stepper motors, allowing for faster printing speeds. Currently the stepper motors are still powered @ 24V by the Octopus Pro's board power.
 - Replace the clear acrylic panels and doors with ones made from polaycarbonate
 - Configure and try out the Phaetus Dragon HF, and the E3D V6 hotends
+- Replace the stock panel clips and hinges with something easier/more functional
