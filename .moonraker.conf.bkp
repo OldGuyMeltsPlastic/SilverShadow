@@ -23,6 +23,7 @@ cors_domains =
 [database]
 
 [file_manager]
+enable_object_processing = True
 
 [octoprint_compat]
 
@@ -37,14 +38,6 @@ type = web
 channel = stable
 repo = mainsail-crew/mainsail
 path = ~/mainsail
-
-[update_manager moonraker-telegram-bot]
-type = git_repo
-path = ~/moonraker-telegram-bot
-origin = https://github.com/nlef/moonraker-telegram-bot.git
-env = ~/moonraker-telegram-bot-env/bin/python
-requirements = scripts/requirements.txt
-install_script = scripts/install.sh
 
 [update_manager crowsnest]
 type = git_repo
@@ -65,10 +58,5 @@ path = ~/klipper-led_effect
 origin = https://github.com/julianschill/klipper-led_effect.git
 is_system_service = False
 
-[update_manager client z_calibration]
-type = git_repo
-path = ~/klipper_z_calibration
-origin = https://github.com/protoloft/klipper_z_calibration.git
-install_script = install.sh
-managed_services = klipper
+[timelapse]
 
